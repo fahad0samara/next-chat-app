@@ -2,6 +2,9 @@
 
 Next Chat App is a simple chat application built using Next.js, React, and NextAuth.js for authentication. It allows users to create chat groups, send messages, and interact with other users in real-time.
 
+![Copy of Minimalist Neutral Multi Device Computer Mockup Website Launch Instagram Post (1)](https://github.com/fahad0samara/next-chat-app/assets/90055525/0e8de612-b99b-483f-b1f1-cec9b766d9cc)
+
+
 ## Features
 
 - User authentication with NextAuth.js
@@ -51,11 +54,7 @@ To get started with the Next Chat App, follow these steps:
 
 You can check out the live demo of the Next Chat App [here](#).
 
-## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-
-![Screenshot 2](/screenshots/screenshot2.png)
 
 ## Contributing
 
